@@ -1,6 +1,5 @@
 ### Hi, I am Viviana👋
 👩🏾‍💻 Pronouns: She/Her
-🌱 Starting my path as a web developer
 📫 Reach me at viviviyanez@gmail.com
 
 <!--
