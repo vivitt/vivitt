@@ -1,5 +1,5 @@
 ### Hi, I am Viviana👋
-🧚🏽‍♀️ Pronouns: She/Her 👩🏾‍💻 Working with React
+🧚🏽‍♀️ Pronouns: She/Her 👩🏾‍💻 Currently working with React
 📫 Reach me at viviviyanez@gmail.com
 
 <!--
