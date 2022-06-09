@@ -1,6 +1,7 @@
 ### Hi, I am Viviana👋
 
-👩🏾‍💻 Web Developer with audiovisuals and visual arts background
+👩🏾‍💻 Web Developer with audiovisuals and visual arts background.
+
 I love learning and creating things. 
 
 I am currenly working with MERN Stack.
