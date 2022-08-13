@@ -4,7 +4,7 @@
 
 I love learning and creating things. 
 
-I am currenly working with MERN Stack.
+HTML5 | CSS3 | Javascript | Jest testing | RESTful API | Node.js | Express | NOSQL | MongoDB | Mongoose | SASS | React | React Testing Library
 
 📬 Reach me at [Linkedin](https://www.linkedin.com/in/viviana-yanez/)
 
