@@ -29,10 +29,6 @@ Databases
   <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
 </p>
 
-My Projects
-<p>
-<img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=vivitt&repo=Guess_Who_GAME&theme=react&bg_color=273849&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="github-readme-streak-stats">
-</p>
 
 <p>
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=timcreative&layout=compact&theme=cobalt&hide_border=true" />
@@ -40,7 +36,7 @@ My Projects
 
 Contact Me
 <p>
-[<img alt="Linkedin" src="https://img.shields.io/badge/Linkedin-%2312100E.svg?&style=for-the-badge&logo=Linkedin&logoColor=white" />](https://www.linkedin.com/in/viviana-yanez/)
+[<img alt="Linkedin" src="https://img.shields.io/badge/Linkedin-0078D4?&style=for-the-badge&logo=Linkedin&logoColor=white" />](https://www.linkedin.com/in/viviana-yanez/)
 </p>  
 HTML5 | CSS3 | Javascript | Jest testing | RESTful API | Node.js | Express | NOSQL | MongoDB | Mongoose | SASS | React | React Testing Library
 
