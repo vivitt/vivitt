@@ -1,10 +1,10 @@
-### Hi, I am Viviana 👋🏽
+## Hi, I am Viviana 👋🏽
 
 👩🏾‍💻 Web Developer with audiovisuals and visual arts background.
 
 I love learning and creating new things. 
 
-# Currently working with
+### Currently working with
 <p>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
@@ -26,16 +26,18 @@ I love learning and creating new things.
   <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
 </p>
 
-
+### My latest projects 
+<p>
+<img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=vivitt&repo=Guess_Who_GAME&theme=react&bg_color=273849&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="github-readme-streak-stats">
+<img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=vivitt&repo=Movie_APP&theme=react&bg_color=273849&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="github-readme-streak-stats">
+</p>
 <p>
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vivitt&layout=compact&theme=cobalt&hide_border=true" />
 </p>
 
-# 📬 Contact Me
+### 📬 Contact Me
 
-[<img alt="Linkedin" src="https://img.shields.io/badge/Linkedin-0078D4?&style=for-the-badge&logo=Linkedin&logoColor=white" />](https://www.linkedin.com/in/viviana-yanez/)
-
-[<img alt="Gmail" src="https://img.shields.io/badge/Gmail-red?&style=for-the-badge&logo=Gmail&logoColor=white" />](https://mailto:viviviyanez@gmail.com) 
+[<img alt="Linkedin" src="https://img.shields.io/badge/Linkedin-0078D4?&style=for-the-badge&logo=Linkedin&logoColor=white" />](https://www.linkedin.com/in/viviana-yanez/) [<img alt="Gmail" src="https://img.shields.io/badge/Gmail-red?&style=for-the-badge&logo=Gmail&logoColor=white" />](https://mailto:viviviyanez@gmail.com) 
 
 
 <!--
