@@ -2,7 +2,7 @@
 
 👩🏾‍💻 Web Developer with audiovisuals and visual arts background.
 
-I love learning and creating things. 
+I love learning and creating new things. 
 
 Programming languages
 <p>
@@ -31,7 +31,7 @@ Databases
 
 
 <p>
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=timcreative&layout=compact&theme=cobalt&hide_border=true" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vivitt&layout=compact&theme=cobalt&hide_border=true" />
 </p>
 
 📬 Contact Me
