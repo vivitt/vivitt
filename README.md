@@ -34,13 +34,13 @@ Databases
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=timcreative&layout=compact&theme=cobalt&hide_border=true" />
 </p>
 
-Contact Me
-<p>
+📬 Contact Me
+
 [<img alt="Linkedin" src="https://img.shields.io/badge/Linkedin-0078D4?&style=for-the-badge&logo=Linkedin&logoColor=white" />](https://www.linkedin.com/in/viviana-yanez/)
-</p>  
+
 HTML5 | CSS3 | Javascript | Jest testing | RESTful API | Node.js | Express | NOSQL | MongoDB | Mongoose | SASS | React | React Testing Library
 
-📬 Reach me at [Linkedin](https://www.linkedin.com/in/viviana-yanez/)
+
 
 <!--
 **vivitt/vivitt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
