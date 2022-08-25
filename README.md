@@ -4,7 +4,7 @@
 
 I love learning and creating new things. 
 
-#Currently working with
+# Currently working with
 <p>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
@@ -31,10 +31,11 @@ I love learning and creating new things.
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vivitt&layout=compact&theme=cobalt&hide_border=true" />
 </p>
 
-#📬 Contact Me
+# 📬 Contact Me
 
 [<img alt="Linkedin" src="https://img.shields.io/badge/Linkedin-0078D4?&style=for-the-badge&logo=Linkedin&logoColor=white" />](https://www.linkedin.com/in/viviana-yanez/)
 
+[<img alt="Gmail" src="https://img.shields.io/badge/Gmail-red?&style=for-the-badge&logo=Gmail&logoColor=white" />](https://mailto:viviviyanez@gmail.com) 
 
 
 <!--
