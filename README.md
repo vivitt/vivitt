@@ -14,6 +14,7 @@ I love learning and creating new things.
 </p>
 <p>
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/mui-blue?style=for-the-badge&logo=mui&logoColor=white" />
   <img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D" />
   <img src="https://img.shields.io/badge/Jest-brigthengreen?style=for-the-badge&logo=jest&logoColor=white" />
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
@@ -29,8 +30,8 @@ I love learning and creating new things.
 
 ### My latest projects 
 <p>
-<img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=vivitt&repo=Guess_Who_GAME&theme=react&bg_color=273849&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="github-readme-streak-stats">
-<img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=vivitt&repo=Movie_APP&theme=react&bg_color=273849&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="github-readme-streak-stats">
+[<img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=vivitt&repo=Guess_Who_GAME&theme=react&bg_color=273849&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="github-Guess_Who_GAME" />] (https://github.com/vivitt/Guess_Who_GAME)
+[<img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=vivitt&repo=Movie_APP&theme=react&bg_color=273849&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="github-Movie_APP" />] (https://github.com/vivitt/Movie_APP)
 </p>
 <p>
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vivitt&layout=compact&theme=cobalt&hide_border=true" />
