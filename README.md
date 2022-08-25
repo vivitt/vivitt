@@ -33,9 +33,9 @@ I love learning and creating new things.
 
 # 📬 Contact Me
 
-[<img alt="Linkedin" src="https://img.shields.io/badge/Linkedin-0078D4?&style=for-the-badge&logo=Linkedin&logoColor=white" />]( target="_blank" https://www.linkedin.com/in/viviana-yanez/)
+[<img alt="Linkedin" src="https://img.shields.io/badge/Linkedin-0078D4?&style=for-the-badge&logo=Linkedin&logoColor=white" />](https://www.linkedin.com/in/viviana-yanez/)
 
-[<img alt="Gmail" src="https://img.shields.io/badge/Gmail-red?&style=for-the-badge&logo=Gmail&logoColor=white" />]( target="_blank" https://mailto:viviviyanez@gmail.com) 
+[<img alt="Gmail" src="https://img.shields.io/badge/Gmail-red?&style=for-the-badge&logo=Gmail&logoColor=white" />](https://mailto:viviviyanez@gmail.com) 
 
 
 <!--
