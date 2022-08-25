@@ -28,9 +28,6 @@ I love learning and creating new things.
   <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
 </p>
 
-### My latest projects 
-
-[<img alt="github-Guess_Who_GAME" width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=vivitt&repo=Guess_Who_GAME&theme=react&bg_color=273849&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false"  />] (https://www.github.com/vivitt/Guess_Who_GAME) [<img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=vivitt&repo=Movie_APP&theme=react&bg_color=273849&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="github-Movie_APP" />] (https://github.com/vivitt/Movie_APP)
 
 <p>
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vivitt&layout=compact&theme=cobalt&hide_border=true" />
