@@ -1,6 +1,6 @@
-<div id="header" align="center" target="_none">
-  <img src='https://i.postimg.cc/jq4pZJ1j/viviv-nobkgrn.png' width="300"/>
-</div>
+
+  [<img src='https://i.postimg.cc/jq4pZJ1j/viviv-nobkgrn.png' width="250"/>] (https://github.com/vivitt)
+
 
 ## Hi, I am Viviana 👋🏽
 
