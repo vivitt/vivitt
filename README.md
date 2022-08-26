@@ -1,4 +1,4 @@
-<div id="header" align="center" style="cursor:none" >
+<div id="header" align="center" style="cursor:initial" >
   <img src='https://i.postimg.cc/jq4pZJ1j/viviv-nobkgrn.png' width="250" />
 </div>
 
