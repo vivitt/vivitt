@@ -1,4 +1,4 @@
-<div id="header" align="center">
+<div id="header" align="center" target="_none">
   <img src='https://i.postimg.cc/jq4pZJ1j/viviv-nobkgrn.png' width="300"/>
 </div>
 
