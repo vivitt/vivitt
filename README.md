@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://postimg.cc/mhhprhBx" width="100"/>
+  <img src='https://i.postimg.cc/jq4pZJ1j/viviv-nobkgrn.png' width="100"/>
 </div>
 
 ## Hi, I am Viviana 👋🏽
