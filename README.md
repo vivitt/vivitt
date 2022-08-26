@@ -1,6 +1,7 @@
 <div id="header" align="center">
   <img src="https://postimg.cc/mhhprhBx" width="100"/>
 </div>
+
 ## Hi, I am Viviana 👋🏽
 
 👩🏾‍💻 Web Developer with audiovisuals and visual arts background.
