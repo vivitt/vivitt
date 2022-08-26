@@ -1,5 +1,5 @@
 
-  [<img src='https://i.postimg.cc/jq4pZJ1j/viviv-nobkgrn.png' width="250"/>] (https://github.com/vivitt)
+  [<img src='https://i.postimg.cc/jq4pZJ1j/viviv-nobkgrn.png' width="250" align="center">](https://www.github.com/vivitt)
 
 
 ## Hi, I am Viviana 👋🏽
