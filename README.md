@@ -1,4 +1,4 @@
-<div id="header" align="center" style="cursor:initial" >
+<div id="header" align="center" style="cursor: not-allowed" >
   <img src='https://i.postimg.cc/jq4pZJ1j/viviv-nobkgrn.png' width="250" />
 </div>
 
