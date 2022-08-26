@@ -1,5 +1,5 @@
 <div id="header" align="center" href="https://github.com/vivitt">
-  <img src='https://i.postimg.cc/zfjWr6VL/viviv.gif' border='0' alt='vivitt' />
+  <img src='https://i.postimg.cc/zfjWr6VL/viviv.gif' border='0' alt='vivitt' widht="250" />
 </div>
 
 ## Hi, I am Viviana 👋🏽
