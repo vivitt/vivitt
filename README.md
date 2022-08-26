@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  [<img src='https://i.postimg.cc/jq4pZJ1j/viviv-nobkgrn.png' width="250" >](https://www.github.com/vivitt)
+  <img src='https://i.postimg.cc/jq4pZJ1j/viviv-nobkgrn.png' width="250" />
 </div>
 
 ## Hi, I am Viviana 👋🏽
