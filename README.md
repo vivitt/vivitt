@@ -1,5 +1,5 @@
-<div id="header" align="center" >
-  <img src='https://i.postimg.cc/zfjWr6VL/viviv.gif' border='0' alt='viviv' width="250" />
+<div id="header" align="center">
+  <img src="https://i.postimg.cc/zfjWr6VL/viviv.gif" width="100"/>
 </div>
 
 ## Hi, I am Viviana 👋🏽
