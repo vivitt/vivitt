@@ -1,5 +1,6 @@
 <div id="header" align="center">
-  <img src='https://i.postimg.cc/nr8zG3xZ/viviv-bkgrn.gif' width="300" alt='animation of a person typing in a notebook'/>
+
+  <img src='https://i.postimg.cc/fy3cJ2KN/viviv-bkgrn.gif' width="300" alt='animation of a person typing in a notebook'/>
   
 </div>
 
