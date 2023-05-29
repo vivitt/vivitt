@@ -5,7 +5,7 @@
 </div>
 
 ## Hi, I am Viviana 👋🏽 
-I am a Software Developer with an audiovisuals and visual arts background. 
+I am a software developer with an audiovisuals and visual arts background. 
  
 
 ### Programming languages and frameworks
