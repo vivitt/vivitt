@@ -7,7 +7,7 @@ I am passionate about developing accessible and inclusive experiences along the 
 
 ---
 
-HTML | CSS | JavaScript | LESS | Typescript | React | Vue.js | Jest | Node.js | 
+HTML | CSS | JavaScript | LESS | Typescript | React | Vue.js | Jest  
 
 <!--
 **vivitt/vivitt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
