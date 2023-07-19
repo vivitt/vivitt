@@ -1,5 +1,5 @@
 ## Hi, I am Viviana 👋🏽 
-I am a software developer with an audiovisual and visual arts background. 
+I am a Frontend developer with an audiovisual and visual arts background. 
 
 I am passionate about developing accessible and inclusive experiences along the web 💗. I love discovering and learning new technologies. Sometimes I [blog]() ✏️ about my experiences.
 
