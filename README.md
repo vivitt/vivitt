@@ -1,9 +1,9 @@
 ## Hi, I am Viviana 👋🏽 
-I am a Frontend developer with an audiovisual and visual arts background. 
+I am a front-end developer with an audiovisual and visual arts background. 
 
 I am passionate about developing accessible and inclusive experiences along the web 💗. I love discovering and learning new technologies. Sometimes I [blog]() ✏️ about my experiences.
 
-📬 Contact me on [Linkedin](https://www.linkedin.com/in/viviana-yanez/), I am always willing to share experiences, learnings, and thoughts.
+Find more about me on [my website](https://www.viviyanez.dev/) or contact me on [Linkedin](https://www.linkedin.com/in/viviana-yanez/), I am always willing to share experiences, learnings, and thoughts.
 
 ---
 
