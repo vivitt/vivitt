@@ -1,4 +1,5 @@
 ## Hi, I am Viviana 👋🏽 
+![Static Badge](https://img.shields.io/badge/any_text-you_like-blue)
 I am a front-end developer with an audiovisual and visual arts background. 
 
 I am passionate about developing accessible and inclusive experiences along the web 💗. I love discovering and learning new technologies. Sometimes I [blog]() ✏️ about my experiences.
