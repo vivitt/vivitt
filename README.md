@@ -11,10 +11,9 @@ Find more about me on [my website](https://www.viviyanez.dev/) and feel free to 
 
 ## Favorite projects
 
-
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=vivitt&repo=Guess_Who_GAME)](https://github.com/vivitt/Guess_Who_GAME)
 
 ---
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vivitt)](https://github.com/vivitt/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vivitt&layout=donut)](https://github.com/vivitt/github-readme-stats)
 
 <!--**vivitt/vivitt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
