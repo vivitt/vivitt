@@ -14,6 +14,5 @@ Find more about me on [my website](https://www.viviyanez.dev/) and feel free to 
 
 
 ---
-[![Viviana's GitHub stats](https://github-readme-stats.vercel.app/api?username=vivitt)](https://github.com/vivitt/github-readme-stats)
-<!--
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vivitt)](https://github.com/vivitt/github-readme-stats)<!--
 **vivitt/vivitt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
