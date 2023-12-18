@@ -11,7 +11,7 @@ Find more about me on [my website](https://www.viviyanez.dev/) and feel free to 
 
 ## Favorite projects
 <div>
-<img src='https://raw.githubusercontent.com/vivitt/Guess_Who_GAME/master/public/111.jpg' width=500 height=400 alt='Guess Who Game'/>
+<img src='https://raw.githubusercontent.com/vivitt/Guess_Who_GAME/master/public/111.jpg' width=400 height=300 alt='Guess Who Game'/>
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=vivitt&repo=Guess_Who_GAME&show_owner=true)](https://github.com/vivitt/Guess_Who_GAME)
 </div>
