@@ -14,7 +14,7 @@ Find more about me on [my website](https://www.viviyanez.dev/) or contact me on 
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
-<img src="https://img.shields.io/badge/LESS-ff69b4?style=for-the-badge&logo=sass&logoColor=1c365cff" />
+<img src="https://img.shields.io/badge/LESS-1c365cff?style=for-the-badge&logo=sass&logoColor=white" />
 
   <img src="https://img.shields.io/badge/SASS-ff69b4?style=for-the-badge&logo=sass&logoColor=white" />
 </p>
