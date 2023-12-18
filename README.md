@@ -9,7 +9,11 @@ I am passionate about crafting enjoyable experiences that make the web more acce
 
 Find more about me on [my website](https://www.viviyanez.dev/) and feel free to reach out on [Linkedin](https://www.linkedin.com/in/viviana-yanez/), I am always happy to exchange experiences, learnings, and thoughts.
 
----
+## Favorite projects
 
+
+
+---
+[![Viviana's GitHub stats](https://github-readme-stats.vercel.app/api?username=vivitt)](https://github.com/vivitt/github-readme-stats)
 <!--
 **vivitt/vivitt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
