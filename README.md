@@ -9,12 +9,35 @@ During the last few months, I have worked as a Software Engineering intern at Wi
 Find more about me on [my website](https://www.viviyanez.dev/) or contact me on [Linkedin](https://www.linkedin.com/in/viviana-yanez/). Feel free to reach out on Linkedin, I am always happy to exchange experiences, learnings, and thoughts.
 
 ---
+#### Programming languages
+<p>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
+<img src="https://img.shields.io/badge/LESS-ff69b4?style=for-the-badge&logo=sass&logoColor=1c365cff" />
 
-HTML | CSS | JavaScript | LESS | Typescript | React | Vue.js | Jest  
-   <img src="https://img.shields.io/badge/html-blue?style=for-the-badge&logo=html&logoColor=white" />
+  <img src="https://img.shields.io/badge/SASS-ff69b4?style=for-the-badge&logo=sass&logoColor=white" />
+</p>
 
+#### Frameworks and Libraries
+<p>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/mui-blue?style=for-the-badge&logo=mui&logoColor=white" />
+  <img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D" />
+  <img src="https://img.shields.io/badge/Jest-brigthengreen?style=for-the-badge&logo=jest&logoColor=white" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Express.js-lightgrey?style=for-the-badge&logo=express&logoColor=white" />
+ </p>
+ 
+#### Databases
+<p>
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
+</p>
+#### Tools
+ <p>
+  <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
    <img src="https://img.shields.io/badge/figma-blueviolet?style=for-the-badge&logo=figma&logoColor=white" />
-
-
+</p>
 <!--
 **vivitt/vivitt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
