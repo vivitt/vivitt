@@ -1,4 +1,4 @@
-## Hi, I am Viviana 👋🏽 
+# Hi, I am Viviana 👋🏽 
 
 I am a creative frontend developer, with a background in audiovisual and visual communication.
 
