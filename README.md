@@ -11,6 +11,10 @@ During the last few months, I have worked as a Software Engineering intern at Wi
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=vivitt&repo=Guess_Who_GAME&show_owner=true)](https://github.com/vivitt/Guess_Who_GAME)
 </div>
 
+## My latest blogpost
+- [Exploring Test-Driven Development: “The TDD Companion” by Scott L Bain](https://viviyanez.hashnode.dev/exploring-test-driven-development-the-tdd-companion-by-scott-l-bain)
+- [Recap of Software Crafters Barcelona 2023: things I learned and loved](https://www.viviyanez.dev/blog/posts/Recap-from-Software-Crafters-Barcelona)
+- [A beginner's guide to understanding SOLID principles](https://viviyanez.hashnode.dev/a-beginners-guide-to-understanding-solid-principles)
 ---
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vivitt&layout=donut)](https://github.com/vivitt/github-readme-stats)
