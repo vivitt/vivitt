@@ -2,7 +2,7 @@
 
 I am a creative frontend developer, with a background in audiovisual and visual communication. I am passionate about crafting enjoyable experiences that make the web more accessible and inclusive.
 
-During the last few months, I have worked as a Software Engineering intern at Wikimedia Foundation (see [my contributions here](https://github.com/wikimedia/mediawiki-extensions-GrowthExperiments/commits?author=vivitt)). You can find more about me on [my website](https://www.viviyanez.dev/) and feel free to reach out on [Linkedin](https://www.linkedin.com/in/viviana-yanez/), I am always happy to exchange experiences, learnings, and thoughts.
+During the last few months, I have worked as a Software Engineering intern at the Wikimedia Foundation. See [my contributions here](https://github.com/wikimedia/mediawiki-extensions-GrowthExperiments/commits?author=vivitt)) or find more about me on [my website](https://www.viviyanez.dev/). Feel free to reach out on [Linkedin](https://www.linkedin.com/in/viviana-yanez/), I am always happy to exchange experiences, learnings, and thoughts.
 
 ## My favorite projects
 <div>
