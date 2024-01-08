@@ -5,7 +5,7 @@ I am a creative frontend developer, with a background in audiovisual and visual 
 During the last few months, I have worked as a Software Engineering intern at the Wikimedia Foundation. See [my contributions here](https://github.com/wikimedia/mediawiki-extensions-GrowthExperiments/commits?author=vivitt) or find more about me on [my website](https://www.viviyanez.dev/). Feel free to reach out on [Linkedin](https://www.linkedin.com/in/viviana-yanez/), I am always happy to exchange experiences, learnings, and thoughts.
 
 ## Stuff I Made
-<div style="display: flex;">
+<div style="display: grid;">
 <div>
 
 <img src='https://raw.githubusercontent.com/vivitt/reusable-switch-component/main/assets/horizontal.png' width=400 height=300 alt='A fully accessible switcher web component with show label option and disabled state'/>
