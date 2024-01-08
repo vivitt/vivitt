@@ -5,15 +5,15 @@ I am a creative frontend developer, with a background in audiovisual and visual 
 During the last few months, I have worked as a Software Engineering intern at the Wikimedia Foundation. See [my contributions here](https://github.com/wikimedia/mediawiki-extensions-GrowthExperiments/commits?author=vivitt) or find more about me on [my website](https://www.viviyanez.dev/). Feel free to reach out on [Linkedin](https://www.linkedin.com/in/viviana-yanez/), I am always happy to exchange experiences, learnings, and thoughts.
 
 ## Stuff I Made
-<div style="display: grid;">
+<div style="display: flex;">
 <div>
 
-<img src='https://raw.githubusercontent.com/vivitt/reusable-switch-component/main/assets/horizontal.png' width=400 height=300 alt='A fully accessible switcher web component with show label option and disabled state'/>
+<img src='https://raw.githubusercontent.com/vivitt/reusable-switch-component/main/assets/horizontal.png' width=300 height=200 alt='A fully accessible switcher web component with show label option and disabled state'/>
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=vivitt&repo=reusable-switch-component&show_owner=true)](https://github.com/vivitt/reusable-switch-component)
 </div>
 <div>
-<img src='https://raw.githubusercontent.com/vivitt/Guess_Who_GAME/master/public/111.jpg' width=400 height=300 alt='Guess Who Game'/>
+<img src='https://raw.githubusercontent.com/vivitt/Guess_Who_GAME/master/public/111.jpg' width=300 height=200 alt='Guess Who Game'/>
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=vivitt&repo=Guess_Who_GAME&show_owner=true)](https://github.com/vivitt/Guess_Who_GAME)
 
