@@ -5,7 +5,7 @@ I am a creative frontend developer, with a background in audiovisual and visual 
 During the last few months, I have worked as a Software Engineering intern at the Wikimedia Foundation. See [my contributions here](https://github.com/wikimedia/mediawiki-extensions-GrowthExperiments/commits?author=vivitt)) or find more about me on [my website](https://www.viviyanez.dev/). Feel free to reach out on [Linkedin](https://www.linkedin.com/in/viviana-yanez/), I am always happy to exchange experiences, learnings, and thoughts.
 
 ## Stuff I Made
-<div>
+<div style='display: flex'>
 <div>
 
 <img src='https://raw.githubusercontent.com/vivitt/reusable-switch-component/main/assets/horizontal.png' width=400 height=300 alt='A fully accessible switcher web component with show label option and disabled state'/>
@@ -38,7 +38,7 @@ During the last few months, I have worked as a Software Engineering intern at th
   <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
   <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
   <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
-   <img src="https://img.shields.io/badge/figma-blueviolet?style=for-the-badge&logo=figma&logoColor=white" />
+  <img src="https://img.shields.io/badge/figma-blueviolet?style=for-the-badge&logo=figma&logoColor=white" />
 </p>
 
 
