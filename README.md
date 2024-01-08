@@ -6,6 +6,7 @@ During the last few months, I have worked as a Software Engineering intern at th
 
 ## Stuff I Made
 <div>
+<div>
 
 <img src='https://raw.githubusercontent.com/vivitt/reusable-switch-component/main/assets/switcher.png' width=400 height=300 alt='A fully accessible switcher web component with show label option and disabled state'/>
 
@@ -17,7 +18,7 @@ During the last few months, I have worked as a Software Engineering intern at th
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=vivitt&repo=Guess_Who_GAME&show_owner=true)](https://github.com/vivitt/Guess_Who_GAME)
 
 </div>
-
+</div>
 ## My latest blogpost
 - [Exploring Test-Driven Development: “The TDD Companion” by Scott L Bain](https://viviyanez.hashnode.dev/exploring-test-driven-development-the-tdd-companion-by-scott-l-bain)
 - [Recap of Software Crafters Barcelona 2023: things I learned and loved](https://www.viviyanez.dev/blog/posts/Recap-from-Software-Crafters-Barcelona)
