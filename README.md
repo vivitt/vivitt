@@ -19,6 +19,7 @@ During the last few months, I have worked as a Software Engineering intern at th
 
 </div>
 </div>
+
 ## My latest blogpost
 - [Exploring Test-Driven Development: “The TDD Companion” by Scott L Bain](https://viviyanez.hashnode.dev/exploring-test-driven-development-the-tdd-companion-by-scott-l-bain)
 - [Recap of Software Crafters Barcelona 2023: things I learned and loved](https://www.viviyanez.dev/blog/posts/Recap-from-Software-Crafters-Barcelona)
