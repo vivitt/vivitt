@@ -6,14 +6,14 @@ During the last few months, I have worked as a Software Engineering intern at th
 
 ## Stuff I Made
 <div style="display: flex;">
-<div>
+<div style="display: inline;">
 
-<img src='https://raw.githubusercontent.com/vivitt/reusable-switch-component/main/assets/horizontal.png' width=300 height=200 alt='A fully accessible switcher web component with show label option and disabled state'/>
+<img src='https://raw.githubusercontent.com/vivitt/reusable-switch-component/main/assets/horizontal.png' width=400 height=300 alt='A fully accessible switcher web component with show label option and disabled state'/>
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=vivitt&repo=reusable-switch-component&show_owner=true)](https://github.com/vivitt/reusable-switch-component)
 </div>
-<div>
-<img src='https://raw.githubusercontent.com/vivitt/Guess_Who_GAME/master/public/111.jpg' width=300 height=200 alt='Guess Who Game'/>
+<div style="display: inline;">
+<img src='https://raw.githubusercontent.com/vivitt/Guess_Who_GAME/master/public/111.jpg' width=400 height=300 alt='Guess Who Game'/>
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=vivitt&repo=Guess_Who_GAME&show_owner=true)](https://github.com/vivitt/Guess_Who_GAME)
 
