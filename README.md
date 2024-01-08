@@ -10,7 +10,7 @@ During the last few months, I have worked as a Software Engineering intern at th
 
 <img src='https://raw.githubusercontent.com/vivitt/reusable-switch-component/main/assets/switcher.png' width=400 height=300 alt='A fully accessible switcher web component with show label option and disabled state'/>
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=vivitt&repo=Guess_Who_GAME&show_owner=true)](https://github.com/vivitt/reusable-switch-component)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=vivitt&repo=reusable-switch-component&show_owner=true)](https://github.com/vivitt/reusable-switch-component)
 </div>
 <div>
 <img src='https://raw.githubusercontent.com/vivitt/Guess_Who_GAME/master/public/111.jpg' width=400 height=300 alt='Guess Who Game'/>
