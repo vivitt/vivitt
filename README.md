@@ -8,7 +8,7 @@ During the last few months, I have worked as a Software Engineering intern at th
 <div>
 <div>
 
-<img src='https://raw.githubusercontent.com/vivitt/reusable-switch-component/main/assets/horizontal.png' width=400 height=300 alt='A fully accessible switcher web component with show label option and disabled state'/>
+<img src='https://raw.githubusercontent.com/vivitt/reusable-switch-component/main/assets/horizontal.png' width=200 height=100 alt='A fully accessible switcher web component with show label option and disabled state'/>
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=vivitt&repo=reusable-switch-component&show_owner=true)](https://github.com/vivitt/reusable-switch-component)
 </div>
