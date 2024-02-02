@@ -1,22 +1,29 @@
-# Hi, I am Viviana 👋🏽 
+<div align="center">
+
+<h1>Hi, I am Viviana 👋🏽 </h1>
+
+[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://www.viviyanez.dev/)
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/viviana-yanez/)
+[![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/yvivi_vi)
+
+</div>
+
+
+---
 
 I am a creative frontend developer, with a background in audiovisual and visual communication. I am passionate about crafting enjoyable experiences that make the web more accessible and inclusive.
 
 During the last few months, I have worked as a Software Engineering intern at the Wikimedia Foundation. See [my contributions here](https://github.com/wikimedia/mediawiki-extensions-GrowthExperiments/commits?author=vivitt) or find more about me on [my website](https://www.viviyanez.dev/). Feel free to reach out on [Linkedin](https://www.linkedin.com/in/viviana-yanez/), I am always happy to exchange experiences, learnings, and thoughts.
 
-## My latest blogpost
+---
+
+## My latest blog posts
 - [Exploring Test-Driven Development: “The TDD Companion” by Scott L Bain](https://viviyanez.hashnode.dev/exploring-test-driven-development-the-tdd-companion-by-scott-l-bain)
 - [Recap of Software Crafters Barcelona 2023: things I learned and loved](https://www.viviyanez.dev/blog/posts/Recap-from-Software-Crafters-Barcelona)
 - [A beginner's guide to understanding SOLID principles](https://viviyanez.hashnode.dev/a-beginners-guide-to-understanding-solid-principles)
 
 ## Projects
 <div style="display: flex;">
-<!-- <div style="display: inline;">
-
-<img src='https://raw.githubusercontent.com/vivitt/reusable-switch-component/main/assets/horizontal.png' width=400 height=300 alt='A fully accessible switcher web component with show label option and disabled state'/>
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=vivitt&repo=reusable-switch-component&show_owner=true)](https://github.com/vivitt/reusable-switch-component)
-</div> -->
 <div style="display: inline;">
 <img src='https://raw.githubusercontent.com/vivitt/Guess_Who_GAME/master/public/111.jpg' width=400 height=300 alt='Guess Who Game'/>
 
