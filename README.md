@@ -4,7 +4,12 @@ I am a creative frontend developer, with a background in audiovisual and visual 
 
 During the last few months, I have worked as a Software Engineering intern at the Wikimedia Foundation. See [my contributions here](https://github.com/wikimedia/mediawiki-extensions-GrowthExperiments/commits?author=vivitt) or find more about me on [my website](https://www.viviyanez.dev/). Feel free to reach out on [Linkedin](https://www.linkedin.com/in/viviana-yanez/), I am always happy to exchange experiences, learnings, and thoughts.
 
-## Stuff I Made
+## My latest blogpost
+- [Exploring Test-Driven Development: “The TDD Companion” by Scott L Bain](https://viviyanez.hashnode.dev/exploring-test-driven-development-the-tdd-companion-by-scott-l-bain)
+- [Recap of Software Crafters Barcelona 2023: things I learned and loved](https://www.viviyanez.dev/blog/posts/Recap-from-Software-Crafters-Barcelona)
+- [A beginner's guide to understanding SOLID principles](https://viviyanez.hashnode.dev/a-beginners-guide-to-understanding-solid-principles)
+
+## Projects
 <div style="display: flex;">
 <!-- <div style="display: inline;">
 
@@ -19,11 +24,6 @@ During the last few months, I have worked as a Software Engineering intern at th
 
 </div>
 </div>
-
-## My latest blogpost
-- [Exploring Test-Driven Development: “The TDD Companion” by Scott L Bain](https://viviyanez.hashnode.dev/exploring-test-driven-development-the-tdd-companion-by-scott-l-bain)
-- [Recap of Software Crafters Barcelona 2023: things I learned and loved](https://www.viviyanez.dev/blog/posts/Recap-from-Software-Crafters-Barcelona)
-- [A beginner's guide to understanding SOLID principles](https://viviyanez.hashnode.dev/a-beginners-guide-to-understanding-solid-principles)
 
 ## Languages and tools 
 <p>
