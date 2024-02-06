@@ -15,6 +15,11 @@ During the last few months, I have worked as a Software Engineering intern at th
 ## My latest blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Wrapping up the year: My 2023 tech journey](https://www.viviyanez.dev/blog//blog/posts/wrapping-up-2023)
+- [Exploring Test-Driven Development: “The TDD Companion” by Scott L Bain](https://www.viviyanez.dev/blog//blog/posts/exploring-test-driven-development)
+- [A beginner&#39;s guide to understanding SOLID principles](https://www.viviyanez.dev/blog//blog/posts/a-beginners-guide to-understanding-solid-principles)
+- [Recap of Software Crafters Barcelona 2023: things I learned and loved](https://www.viviyanez.dev/blog//blog/posts/recap-from-software-crafters-barcelona)
+- [Notes from my journey as a Software Engineering intern on the Growth team](https://www.viviyanez.dev/blog//blog/posts/notes-from-my-journey)
 <!-- BLOG-POST-LIST:END -->
 
 
