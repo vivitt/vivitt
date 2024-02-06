@@ -1,0 +1,19 @@
+name: Latest blog post workflow
+on:
+  workflow_dispatch:
+  schedule:
+    # Runs at 00:00 on Monday
+    - cron: '0 0 * * 1'
+
+jobs:
+  update-readme-with-blog:
+    name: Update this repo's README with latest blog posts
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - uses: gautamkrishnar/blog-post-workflow@master
+        with:
+          # Your RSS feed url
+          feed_list: "https://www.viviyanez.dev/feed.rss"
+          # Maximum number of posts you want
+          max_post_count: 5
