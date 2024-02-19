@@ -15,11 +15,11 @@ During the last few months, I have worked as a Software Engineering intern at th
 ## My latest blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Participating in The Collab Lab: Week #2](https://www.viviyanez.dev/blog/posts/the-collab-lab-week-2)
 - [Adding generated cover images to my blog posts using the Canvas API](https://www.viviyanez.dev/blog/posts/how-to-add-generated-images)
 - [Participating in The Collab Lab: Week #1](https://www.viviyanez.dev/blog/posts/the-collab-lab-week-1)
 - [Wrapping up the year: My 2023 tech journey](https://www.viviyanez.dev/blog/posts/wrapping-up-2023)
 - [Exploring Test-Driven Development: “The TDD Companion” by Scott L Bain](https://www.viviyanez.dev/blog/posts/exploring-test-driven-development)
-- [A beginner&#39;s guide to understanding SOLID principles](https://www.viviyanez.dev/blog/posts/a-beginners-guide-to-understanding-solid-principles)
 <!-- BLOG-POST-LIST:END -->
 
 
