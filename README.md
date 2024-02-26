@@ -16,11 +16,11 @@ I am open for full-time opportunities. If you are hiring, let's talk about how I
 ## My latest blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [React Hooks: how to cache calculations with useMemo](https://www.viviyanez.dev/blog/posts/how-to-cache-calculations)
+- [Participating in The Collab Lab: Week #3](https://www.viviyanez.dev/blog/posts/the-collab-lab-week-3)
 - [Participating in The Collab Lab: Week #2](https://www.viviyanez.dev/blog/posts/the-collab-lab-week-2)
+- [React Hooks: When Not to Use useEffects](https://www.viviyanez.dev/blog/posts/when-not-to-use-useeffects)
 - [Adding generated cover images to my blog posts using the Canvas API](https://www.viviyanez.dev/blog/posts/how-to-add-generated-images)
-- [Participating in The Collab Lab: Week #1](https://www.viviyanez.dev/blog/posts/the-collab-lab-week-1)
-- [Wrapping up the year: My 2023 tech journey](https://www.viviyanez.dev/blog/posts/wrapping-up-2023)
-- [Exploring Test-Driven Development: “The TDD Companion” by Scott L Bain](https://www.viviyanez.dev/blog/posts/exploring-test-driven-development)
 <!-- BLOG-POST-LIST:END -->
 
 
