@@ -16,11 +16,17 @@ I am open for full-time opportunities. If you are hiring, let's talk about how I
 ## My latest blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Comparing Strings in JavaScript: How to check for Equal Normalized Values](https://www.viviyanez.dev/blog/posts/comparing-strings-in-javaScript-how-to-check-for-equal-values-without-including-non-alphabetic-characters)
+- [Participating in The Collab Lab:
+
+
+
+
+
+ Week #5 &amp; #6](https://www.viviyanez.dev/blog/posts/the-collab-lab-week-5-6)
 - [Learning about Date objects in JS](https://www.viviyanez.dev/blog/posts/learning-about-date-objects-in-JS)
 - [Participating in The Collab Lab: Week #4](https://www.viviyanez.dev/blog/posts/the-collab-lab-week-4)
 - [React Hooks: how to cache calculations with useMemo](https://www.viviyanez.dev/blog/posts/how-to-cache-calculations)
-- [Participating in The Collab Lab: Week #3](https://www.viviyanez.dev/blog/posts/the-collab-lab-week-3)
-- [Participating in The Collab Lab: Week #2](https://www.viviyanez.dev/blog/posts/the-collab-lab-week-2)
 <!-- BLOG-POST-LIST:END -->
 
 
