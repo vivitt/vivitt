@@ -16,17 +16,11 @@ I am open for full-time opportunities. If you are hiring, let's talk about how I
 ## My latest blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [React Hooks: a look into useState](https://www.viviyanez.dev/blog/posts/a-look-into-use-state)
+- [Participating in The Collab Lab: Week #7](https://www.viviyanez.dev/blog/posts/the-collab-lab-week-7)
 - [Comparing Strings in JavaScript: How to check for Equal Normalized Values](https://www.viviyanez.dev/blog/posts/comparing-strings-in-javaScript-how-to-check-for-equal-values-without-including-non-alphabetic-characters)
-- [Participating in The Collab Lab:
-
-
-
-
-
- Week #5 &amp; #6](https://www.viviyanez.dev/blog/posts/the-collab-lab-week-5-6)
-- [Learning about Date objects in JS](https://www.viviyanez.dev/blog/posts/learning-about-date-objects-in-JS)
+- [Participating in The Collab Lab: Week #5 &amp; #6](https://www.viviyanez.dev/blog/posts/the-collab-lab-week-5-6)
 - [Participating in The Collab Lab: Week #4](https://www.viviyanez.dev/blog/posts/the-collab-lab-week-4)
-- [React Hooks: how to cache calculations with useMemo](https://www.viviyanez.dev/blog/posts/how-to-cache-calculations)
 <!-- BLOG-POST-LIST:END -->
 
 
