@@ -16,11 +16,11 @@ I am open for full-time opportunities. If you are hiring, let's talk about how I
 ## My latest blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Participating in The Collab Lab: Wrapping up](https://www.viviyanez.dev/blog/posts/the-collab-wrapping-up)
+- [A fully accessible checkbox styled with Tailwind](https://www.viviyanez.dev/blog/posts/a-fully-accessible-checkbox-styled-with-tailwind)
+- [Participating in The Collab Lab: Week #8 &amp; #9](https://www.viviyanez.dev/blog/posts/the-collab-lab-week-8-9)
 - [React Hooks: a look into useState](https://www.viviyanez.dev/blog/posts/a-look-into-use-state)
 - [Participating in The Collab Lab: Week #7](https://www.viviyanez.dev/blog/posts/the-collab-lab-week-7)
-- [Comparing Strings in JavaScript: How to check for Equal Normalized Values](https://www.viviyanez.dev/blog/posts/comparing-strings-in-javaScript-how-to-check-for-equal-values-without-including-non-alphabetic-characters)
-- [Participating in The Collab Lab: Week #5 &amp; #6](https://www.viviyanez.dev/blog/posts/the-collab-lab-week-5-6)
-- [Participating in The Collab Lab: Week #4](https://www.viviyanez.dev/blog/posts/the-collab-lab-week-4)
 <!-- BLOG-POST-LIST:END -->
 
 
