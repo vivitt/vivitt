@@ -16,11 +16,11 @@ I am open for full-time opportunities. If you are hiring, let's talk about how I
 ## My latest blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [How to Set Up a CI/CD Pipeline with Husky and GitHub Actions](https://www.viviyanez.dev/blog/posts/how-to-setup-a-cicd-pipeline)
 - [The prefers-contrast and forced-colors CSS media features](https://www.viviyanez.dev/blog/posts/the-prefers-contrast-and-forced-colors-CSS-media-features)
 - [Participating in The Collab Lab: Wrapping up](https://www.viviyanez.dev/blog/posts/the-collab-wrapping-up)
 - [A fully accessible checkbox styled with Tailwind](https://www.viviyanez.dev/blog/posts/a-fully-accessible-checkbox-styled-with-tailwind)
 - [Participating in The Collab Lab: Week #8 &amp; #9](https://www.viviyanez.dev/blog/posts/the-collab-lab-week-8-9)
-- [React Hooks: a look into useState](https://www.viviyanez.dev/blog/posts/a-look-into-use-state)
 <!-- BLOG-POST-LIST:END -->
 
 
