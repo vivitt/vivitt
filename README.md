@@ -7,13 +7,12 @@
 
 </div>
 
-I am a creative developer, with a background in audiovisual and visual communication. I am passionate about crafting enjoyable experiences that make the web more accessible and inclusive.
+- software engineer with a background in audiovisual and visual communication
+- passionate about making the web more accessible and inclusive
+- learn more about me on [my website](https://www.viviyanez.dev/)
+- feel free to reach out on [Linkedin](https://www.linkedin.com/in/viviana-yanez/), I'm happy to exchange experiences, learnings, and thoughts
 
-I have [participated as a frontend developer](https://dev.to/vivitt/series/26359) at The Collab Lab and previously completed a Software Engineering internship at the Wikimedia Foundation. You can see [my contributions here](https://github.com/wikimedia/mediawiki-extensions-GrowthExperiments/commits?author=vivitt), find more about me on [my website](https://www.viviyanez.dev/), or reach out on [Linkedin](https://www.linkedin.com/in/viviana-yanez/). I am always happy to exchange experiences, learnings, and thoughts. 
-
-I am open for full-time opportunities. If you are hiring, let's talk about how I can contribute to your team! I thrive in collaborative environments, and observation is my superpower. I am always open to learn new tech stacks and would absolutely love to be part of a team that conducts code reviews and follows TDD practices.
-
-## My latest blog posts
+#### writing about software engineering & career transitions
 
 <!-- BLOG-POST-LIST:START -->
 - [What Happens When You Visit a Website? How the Web Works Explained](https://www.viviyanez.dev/blog/posts/what-happens-when-you-visit-a-website.md)
