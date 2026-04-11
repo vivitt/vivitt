@@ -8,7 +8,7 @@
 </div>
 
 - software engineer with a background in audiovisual and visual communication
-- passionate about making the web more accessible and inclusive
+- care about about making the web more accessible and inclusive
 - learn more about me on [my website](https://www.viviyanez.dev/)
 - feel free to reach out on [Linkedin](https://www.linkedin.com/in/viviana-yanez/), I'm happy to exchange experiences, learnings, and thoughts
 
